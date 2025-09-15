@@ -5,12 +5,6 @@ It covers creating a domain controller, joining clients to the domain, and manag
 
 ---
 
-## 🎥 Video Demonstration  
-📺 [Active Directory on Azure VMs Walkthrough](#)  
-*(Add your YouTube or video link here)*  
-
----
-
 ## 🖥️ Environments and Technologies Used  
 - **Microsoft Azure** (Resource Groups, Virtual Networks, Virtual Machines)  
 - **Remote Desktop (RDP)**  
