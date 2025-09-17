@@ -39,9 +39,10 @@ It covers creating a domain controller, joining clients to the domain, and manag
 - Install **Active Directory Domain Services (AD DS)** via Server Manager.  
 - Promote the server to a **Domain Controller** (e.g., domain: `mydomain.com`).  
 
-📸 **Screenshot:**  
+📸  
 <img width="1452" height="649" alt="Screenshot 2025-09-17 171227" src="https://github.com/user-attachments/assets/9bb5d231-d4f8-4bb0-89a6-9f4a1fb35f44" />
 <img width="1215" height="287" alt="Screenshot 2025-09-17 171251" src="https://github.com/user-attachments/assets/9f669852-000d-4826-b76f-371b3425aa3b" />
+<img width="1192" height="1019" alt="Screenshot 2025-09-17 174219" src="https://github.com/user-attachments/assets/ad28d447-cbcc-4dbf-a569-e8eed6b984f9" />
 
 
 ---
@@ -53,8 +54,9 @@ It covers creating a domain controller, joining clients to the domain, and manag
   - `_ADMINS`  
 - Helps organize accounts and apply group policies.  
 
-📸 **Screenshot:**  
-![OU Creation](images/step3_ou.png)  
+📸 
+<img width="585" height="329" alt="Screenshot 2025-09-17 174532" src="https://github.com/user-attachments/assets/46503828-460a-4e78-883d-da4e73e65f80" />
+
 
 ---
 
@@ -62,8 +64,9 @@ It covers creating a domain controller, joining clients to the domain, and manag
 - Add new user accounts (e.g., *John Doe*, *Jane Smith*).  
 - Assign to appropriate groups (e.g., Domain Admins, Standard Users).  
 
-📸 **Screenshot:**  
-![User Creation](images/step4_users.png)  
+📸  
+<img width="578" height="522" alt="Screenshot 2025-09-17 174613" src="https://github.com/user-attachments/assets/ca923f33-71d4-40f8-9a16-a8c2004907f6" />
+
 
 ---
 
@@ -73,8 +76,9 @@ It covers creating a domain controller, joining clients to the domain, and manag
   - Join the computer to `mydomain.com`.  
   - Restart the client machine.  
 
-📸 **Screenshot:**  
-![Domain Join](images/step5_client_join.png)  
+📸  
+<img width="477" height="309" alt="Screenshot 2025-09-17 173731" src="https://github.com/user-attachments/assets/735db839-136a-41ce-8560-4eb998823388" />
+ 
 
 ---
 
@@ -82,8 +86,8 @@ It covers creating a domain controller, joining clients to the domain, and manag
 - Log into the **Client VM** using a domain account.  
 - Confirm access to domain resources and policies.  
 
-📸 **Screenshot:**  
-![Domain Login](images/step6_login.png)  
+📸 
+<img width="691" height="990" alt="Screenshot 2025-09-17 174959" src="https://github.com/user-attachments/assets/b0841d11-0e19-492b-ac4c-8f06daf70eea" />
 
 ---
 
@@ -92,8 +96,9 @@ It covers creating a domain controller, joining clients to the domain, and manag
 - Create and link a GPO (Group Policy Object).  
 - Example: Force desktop background, password policies, or software restrictions.  
 
-📸 **Screenshot:**  
-![Group Policy](images/step7_gpo.png)  
+📸 
+<img width="727" height="895" alt="Screenshot 2025-09-17 175915" src="https://github.com/user-attachments/assets/4506a17c-6757-4cd1-aad6-5cb5a483582d" />
+
 
 ---
 
