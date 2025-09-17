@@ -27,8 +27,9 @@ It covers creating a domain controller, joining clients to the domain, and manag
   - **Client Machine (Windows 10/11)**  
 - Ensure both are on the same **Virtual Network (VNet)**.  
 
-📸 **Screenshot:**  
-![Azure VM Setup](images/step1_vm_setup.png)  
+📸   
+<img width="1914" height="440" alt="Screenshot 2025-09-17 170922" src="https://github.com/user-attachments/assets/4f14fd9e-6dc7-4f57-af34-739c3573507d" />
+
 
 ---
 
@@ -39,7 +40,9 @@ It covers creating a domain controller, joining clients to the domain, and manag
 - Promote the server to a **Domain Controller** (e.g., domain: `mydomain.com`).  
 
 📸 **Screenshot:**  
-![Domain Controller Setup](images/step2_domain_controller.png)  
+<img width="1452" height="649" alt="Screenshot 2025-09-17 171227" src="https://github.com/user-attachments/assets/9bb5d231-d4f8-4bb0-89a6-9f4a1fb35f44" />
+<img width="1215" height="287" alt="Screenshot 2025-09-17 171251" src="https://github.com/user-attachments/assets/9f669852-000d-4826-b76f-371b3425aa3b" />
+
 
 ---
 
